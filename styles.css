@@ -1,0 +1,15 @@
+h1 {
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 88px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list {
+    background-color: gray;
+    color: violet;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
